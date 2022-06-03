@@ -1,4 +1,4 @@
-# Tic-Tak-Toe-Python-Canvas
+# Tic-Tak-Toe(Python)
 
 Tic-Tac-Toe game with Python's Tkinter using Canvas 
 
