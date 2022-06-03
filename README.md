@@ -1,2 +1,2 @@
 # Tik-Tak-Toe-Python-Canvas
-This is my second Python project. I watched tutorials of people making Tik-Tak-Toe with Python using buttons. I thought buttons looked uglier, so I used canvas and made it by myself. Since I didn't follow a tutorial, my code might be a little sloppy and unclean.
+This is my first Python project, that I did not follow a tutorial for. I had seen tutorials for creating Tik-Tak-Toe with Python, but they all used buttons. I thought that Canvas would look a lot cooler, so I decided to abandon the tutorial and create the project by myself. Given that I did not follow a tutorial, and this is y first project not doing so, I think the code might look a little sloppy and unclean. I hope one can give me ways to clean it up!
